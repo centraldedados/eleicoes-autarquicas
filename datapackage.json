@@ -1,0 +1,270 @@
+{
+  "name": "eleicoes_autarquicas",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODbL-1.0",
+  "resources": [
+    {
+      "name": "1976",
+      "path": "data/1976.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 13378,
+      "schema": {
+        "fields": [
+          {
+            "name": "Valdemar Cardoso Alves ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PSD ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1979",
+      "path": "data/1979.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 13525,
+      "schema": {
+        "fields": [
+          {
+            "name": "Deniz C. Ramos Padeiro ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PSD ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1982",
+      "path": "data/1982.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 12983,
+      "schema": {
+        "fields": [
+          {
+            "name": "Denis Ramos Padeiro  ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PSD  ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1985",
+      "path": "data/1985.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 13019,
+      "schema": {
+        "fields": [
+          {
+            "name": "José J. Carvalho Ribeiro ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PSD  ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1989",
+      "path": "data/1989.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 13395,
+      "schema": {
+        "fields": [
+          {
+            "name": "José Carvalho Ribeiro ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PSD  ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1993",
+      "path": "data/1993.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 14552,
+      "schema": {
+        "fields": [
+          {
+            "name": "Deniz Cruz de Ramos Padeiro ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PPD / PSD ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "1997",
+      "path": "data/1997.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 14599,
+      "schema": {
+        "fields": [
+          {
+            "name": "Manuel Castro Azevedo ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PPD / PSD ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "2001",
+      "path": "data/2001.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 15150,
+      "schema": {
+        "fields": [
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Manuel Castro Azevedo ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PPD / PSD ",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "2005",
+      "path": "data/2005.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 2787,
+      "schema": {
+        "fields": [
+          {
+            "name": "Águeda ",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Gil Navais Resende da Fonseca",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PS",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "2009",
+      "path": "data/2009.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 15483,
+      "schema": {
+        "fields": [
+          {
+            "name": "Águeda",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Gil Nadais Resende da Fonseca",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PS",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
