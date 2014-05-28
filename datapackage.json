@@ -1,9 +1,16 @@
 {
   "name": "eleicoes_autarquicas",
   "title": "Eleições Autárquicas",
-  "homepage": "",
+  "homepage": "http://centraldedados.pt/eleicoes-autarquicas",
   "version": "0.1.0",
-  "license": "ODbL-1.0",
+  "description": "Resultados eleitorais das eleições autárquicas.",
+  "license": "PDDL-1.0",
+  "sources": [
+    {
+      "name": "CNE",
+      "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
+    }
+  ],
   "resources": [
     {
       "name": "1976",
