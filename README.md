@@ -1,14 +1,6 @@
 Aqui encontram-se os candidatos nas eleições autárquicas em Portugal desde 1974.
 Esperamos brevemente poder disponibilizar também os resultados.
 
-Dados
------
-
-Os dados são provenientes do site da Comissão Nacional de Eleições, onde podem
-ser acedidos na secção de [Resultados Eleitorais](http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster).
-
-O Portal do Eleitor também possui uma [lista de resultados](http://www.portaldoeleitor.pt/Paginas/HistoricodeResultados.aspx), redirecionando para o site da CNE.  
-
 
 Licença
 -------
