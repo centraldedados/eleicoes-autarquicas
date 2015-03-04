@@ -1,6 +1,5 @@
-Aqui encontram-se os resultados eleitorais das eleicoes autarquicas em Portugal
-desde 1974.
-
+Aqui encontram-se os candidatos nas eleições autárquicas em Portugal desde 1974.
+Esperamos brevemente poder disponibilizar também os resultados.
 
 Dados
 -----
